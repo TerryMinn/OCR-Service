@@ -30,7 +30,7 @@ A **microservice-based OCR** tool that extracts **text from images** using **AWS
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-repo/ocr-service.git
+   git clone https://github.com/TerryMinn/OCR-Service
    cd ocr-service
    ```
 
